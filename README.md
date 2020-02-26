@@ -5,6 +5,10 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 ## Description
+Fixed error in php 7.0
+Parse error: syntax error, unexpected '|', expecting variable (T_VARIABLE) in /vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1024
+
+
 
 PHPIMAP is an easy way to integrate the native php imap library into your php app.
 
